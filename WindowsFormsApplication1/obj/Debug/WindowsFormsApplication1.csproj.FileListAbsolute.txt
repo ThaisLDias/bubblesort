@@ -25,3 +25,12 @@ C:\Users\luis.silva\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\ob
 C:\Users\luis.silva\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\luis.silva\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 C:\Users\luis.silva\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\luis.silva\Desktop\GitHub\bubblesort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\luis.silva\Desktop\GitHub\bubblesort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\luis.silva\Desktop\GitHub\bubblesort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\luis.silva\Desktop\GitHub\bubblesort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\luis.silva\Desktop\GitHub\bubblesort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\luis.silva\Desktop\GitHub\bubblesort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\luis.silva\Desktop\GitHub\bubblesort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\luis.silva\Desktop\GitHub\bubblesort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\luis.silva\Desktop\GitHub\bubblesort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

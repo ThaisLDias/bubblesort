@@ -14,16 +14,18 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
-       const int sizeArray = 2000;
+        const int sizeArray = 1000;
         int[] arrayR = new int[sizeArray];
         Random r = new Random();
         int temp;
+        int verifications;
+        int ticks = 1;
 
         public Form1()
         {
             InitializeComponent();
         }
-
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -44,16 +46,22 @@ namespace WindowsFormsApplication1
                     chart1.Series["Series1"].Points.AddY(arrayR[a]);
                 }
                 for (int z = i + 1; z < arrayR.Length; z++)
+                {
                     if (arrayR[i] > arrayR[z])
                     {
                         temp = arrayR[i];
                         arrayR[i] = arrayR[z];
                         arrayR[z] = temp;
                     }
+                    verifications++;
+                }
+                ticks ++;
+                chart2.Series["Series2"].Points.AddXY(ticks, verifications);
             }
             
             
         }
+
         
     
     }
